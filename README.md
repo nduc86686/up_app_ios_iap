@@ -1,6 +1,6 @@
 Up app có tính năng mua hàng
 +Giao diện khi mua hàng trong ứng dụng bắt buộc phải có những phần sau
-![alt text](￼https://github.com/nduc86686/up_app_ios_iap/blob/main/Restore%20Purchase.png?raw=true)
+![alt text](https://github.com/nduc86686/up_app_ios_iap/blob/main/Restore%20Purchase.png?raw=true)
 
 +Khi review app lên cần có một điều khoản trong phần mô tả của ứng dụng,mẫu như sau:
 You may purchase an auto-renewing subscription through an In-App Purchase.
